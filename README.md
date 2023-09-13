@@ -33,7 +33,7 @@ To run this project locally or contribute to its development, follow these steps
 
 * Clone the repository:
 ```bash
-git clone https://github.com/Omar-Askeeb/student_cetb-Flutter.git)https://github.com/Omar-Askeeb/student_cetb-Flutter.git
+git clone https://github.com/Omar-Askeeb/student_cetb-Flutter.git
 ```
 
 * Navigate to the project directory:
