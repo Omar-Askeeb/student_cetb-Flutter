@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "185294576415",
+    "project_id": "student-app-d0f09",
+    "storage_bucket": "student-app-d0f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185294576415:android:34e055d6a3363812fdae2a",
+        "android_client_info": {
+          "package_name": "com.brayiik.studentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185294576415-h3ol4c90l2femvukonbps2lj341brh4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brayiik.studentapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "185294576415-3b594s5go1jdvs4o4kn7othlo4fjf4o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFet0pmzQNuO6Zx928q3ZCef6KHaouIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185294576415-3b594s5go1jdvs4o4kn7othlo4fjf4o1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185294576415-296fbvv384ne5llmhrtm8p2n1tknse4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brayiik.studentcetb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185294576415:android:4672a18324a55996fdae2a",
+        "android_client_info": {
+          "package_name": "com.brayiik.studentcetb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185294576415-6h0cjod436ifkmcfjq3c5hm8t1cbcd93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brayiik.studentcetb",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "185294576415-3b594s5go1jdvs4o4kn7othlo4fjf4o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFet0pmzQNuO6Zx928q3ZCef6KHaouIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185294576415-3b594s5go1jdvs4o4kn7othlo4fjf4o1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185294576415-296fbvv384ne5llmhrtm8p2n1tknse4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brayiik.studentcetb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
