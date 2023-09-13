@@ -8,21 +8,15 @@ The CETB College Student Services Mobile App is a Flutter-based application desi
 
 ### Key Features:
 
-### Student Statistics:
-
-* Easily view personal academic data, including attendance records, course progress, and examination results.
+* Student Statistics: Easily view personal academic data, including attendance records, course progress, and examination results.
 Intuitive charts and graphs for a visual representation of academic performance.
 GPA Calculator:
 
 * View your GPA based on the entered course grades and credits.
 * Keep track of your academic progress semester by semester.
-* Library Catalog:
-
-Browse and search for books available in the college library.
+* Library Catalog: Browse and search for books available in the college library.
 Check book availability and location within the library.
-College News:
-
-Stay updated with the latest news and announcements from CETB College.
+* College News: Stay updated with the latest news and announcements from CETB College.
 Receive push notifications for important updates.
 
 ### Technical Stack:
