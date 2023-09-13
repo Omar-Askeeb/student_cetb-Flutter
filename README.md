@@ -25,3 +25,32 @@ Receive push notifications for important updates.
 * Backend: Firebase
 * Database: Firebase Firestore
 * Authentication: Firebase Authentication
+
+
+## Getting Started:
+
+To run this project locally or contribute to its development, follow these steps:
+
+* Clone the repository:
+```bash
+git clone https://github.com/Omar-Askeeb/student_cetb-Flutter.git)https://github.com/Omar-Askeeb/student_cetb-Flutter.git
+```
+
+* Navigate to the project directory:
+
+```bash
+cd cetb-student-app
+```
+* Install dependencies:
+```bash
+flutter pub get
+```
+* Run the app on your local development environment:
+
+```bash
+flutter run
+```
+
+Contact:
+For any questions or issues, feel free to contact us at omar.askeeb@gmail.com
+
